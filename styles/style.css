@@ -127,8 +127,7 @@ ol {
 .search-form__textfield {
   color: white;
   font-family: "Fira Sans Condensed";
-  font-size: 18px;
-  
+  font-size: 18px; 
 }
 .search-form__label:has(:focus-visible) {
   outline: none;
