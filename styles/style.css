@@ -377,6 +377,7 @@ ol {
   object-fit: cover; 
   object-position: center;
 }
+
 /* св-ва, чтобы скрыть элемет */
 .visually-hidden {
   position: absolute;
